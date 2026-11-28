@@ -77,6 +77,12 @@ Engine size and year matter most, then transmission, model and mileage.
 
 ## How to run
 
+**In Google Colab (easiest):** click the badge below, then choose **Runtime › Run all**. The notebook reads the CSV straight from this repo, so you don't need to upload anything.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saddamkhan11/pakwheels-car-price-prediction/blob/main/PakWheels_Price_Prediction.ipynb)
+
+**On your own computer:**
+
 ```bash
 pip install -r requirements.txt
 jupyter notebook PakWheels_Price_Prediction.ipynb
